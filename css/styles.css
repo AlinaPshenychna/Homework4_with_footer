@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.body {
+  background-color: #ede6dd;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.font {
+  background-color: #000;
+}
+.button-send {
+  border: solid 3px #7ec4bd;
+  color: #8bcac3;
+  text-align: center;
+  font-family: Vollkorn;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 22px;
+  padding: 22px 61px;
+  background-color: #000;
+  margin: 0 auto;
+  display: block;
+}
+.textarea {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  font-family: Vollkorn;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 22px;
+  width: 100%;
+  padding: 18px 31px;
+  border: none;
+  resize: none;
+}
+.tel-number {
+  background: rgba(255, 255, 255, 0.2);
+  display: block;
+  color: #fff;
+  font-family: Vollkorn;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 22px;
+  width: 100%;
+  padding: 18px 31px;
+  border: none;
+}
+.email-inf {
+  background: rgba(255, 255, 255, 0.2);
+  display: block;
+  color: #fff;
+  font-family: Vollkorn;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 22px;
+  width: 100%;
+  padding: 18px 31px;
+  border: none;
+}
+.text-field {
+  background: rgba(255, 255, 255, 0.2);
+  display: block;
+  color: #fff;
+  font-family: Vollkorn;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 22px;
+  width: 100%;
+  padding: 18px 31px;
+}
